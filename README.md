@@ -1,4 +1,4 @@
-# PokemonPerfectCrystal
+# Pokemon Perfect Crystal
 
 When Pokemon Crystal was released, it was the ultimate experience of classic Game Boy/Game Boy Color Pokemon. Now this classic can be played the way it always should have been!
 
@@ -6,7 +6,7 @@ The goal of this hack has been to make an idealized definitive version of Pokemo
 
 Only minor changes have been made, see below for details:
 
-Version 1.0 (28/01/2018):
+# Version 1.0 (28/01/2018):
 
 All 251 Pokemon catchable.
 Pokemon that normally evolve with trades, evolve through the use of stones.
@@ -21,23 +21,24 @@ Reuseable TM’s.
 Hold down B to run.
 Restored Japanese sprites for the Beauty, Sage, Medium, female Swimmer and Fisherman.
 Simplified the clock reset procedure on the intro screen. Simply hold down “Down”, “B” and “Select”. No need to enter in a password.
-Version 2.0 (29/01/2018):
+
+# Version 2.0 (29/01/2018):
 
 Restored the original Japanese sprite for Jynx.
 Version Complete (08/02/2018):
 
 Tiny adjustment to a single trainer’s Pokemon levels that was missed.
 With this final release, the hack is complete.
-Update (25/06/2018)
+
+# Update (25/06/2018)
 
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
 The readme file includes a list of changed encounters and evolutions.
 
 The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
-
-
-
-~Encounters Added to Make Every Pokemon Obtainable~
+#
+#
+#Encounters Added to Make Every Pokemon Obtainable
 
 Vulpix can be encountered at Route 36, 37 during the morning and day
 
@@ -74,7 +75,7 @@ Mewtwo is avaliable in a restored Cerulean Cave
 Mew has a 1% chance of encounter at a secret location at a secret time of day (See the bottom of the document to reveal location)
 
 
-~Encounters Changed to Bring Johto Pokemon Previously Only Obtainable in Kanto to Johto and Add Some Small Variety~
+#Encounters Changed to Bring Johto Pokemon Previously Only Obtainable in Kanto to Johto and Add Some Small Variety
 
 Houndour has been added to Route 36 and 37 to be encountered at night
 
@@ -91,7 +92,7 @@ The encounters at Mount Silver have been given a slight level boost
 The encounters in Cerulean Cave are a surprise
 
 
-~Evolutions~
+#Evolutions
 
 Haunter evolves into Gengar with a Moon Stone
 
@@ -146,7 +147,7 @@ Porygon evolves into Porygon2 with a Thunderstone
 
 
 
-~Secret Locations~
+#Secret Locations
 
 The 3 legendrary birds are in the Pokeball chambers in Mount Silver.
 
