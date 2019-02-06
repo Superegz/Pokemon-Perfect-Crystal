@@ -34,7 +34,8 @@ With this final release, the hack is complete.
 
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
 The readme file includes a list of changed encounters and evolutions.
-
+#
+#
 The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
 #
 #
@@ -120,15 +121,8 @@ Porygon evolves into Porygon2 with a Thunderstone
 
 
 
-
-
-
-
-
-
-
-
-
+#
+#
 #
 #
 #
