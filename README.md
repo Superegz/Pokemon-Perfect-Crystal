@@ -36,7 +36,12 @@ The readme file has been updated with the secret locations for the legendary bir
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
+#
+#
+#
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
+#
+#
 #
 #
 # Encounters Added to Make Every Pokemon Obtainable
