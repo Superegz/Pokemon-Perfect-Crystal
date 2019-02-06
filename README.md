@@ -9,30 +9,45 @@ Only minor changes have been made, see below for details:
 # Version 1.0 (28/01/2018):
 
 All 251 Pokemon catchable.
+
 Pokemon that normally evolve with trades, evolve through the use of stones.
+
 Stones and items that could only be obtained through Mystery Gift available at department stores.
+
 The GS Ball and Celebi event can be triggered after Mount Silver has been unlocked.
+
 Fixed a bunch of glitches such as the problems with some of Kurt’s balls and several items.
+
 Increased opponents levels to match HGSS (Except Red who has Level 100 Pokemon just for fun, he is supposed to be the best trainer in the world after all). This is mainly noticeable in late Johto and Kanto.
+
 Made all Gym Leaders rematchable. Just talk to them again and they will ask for a rematch.
+
 Removed the badge boosts and the extra chances the AI has to miss on status moves to create parity between the player and the AI.
+
 Ho-Oh and Lugia have their signature moves when you encounter them.
+
 Reuseable TM’s.
+
 Hold down B to run.
+
 Restored Japanese sprites for the Beauty, Sage, Medium, female Swimmer and Fisherman.
+
 Simplified the clock reset procedure on the intro screen. Simply hold down “Down”, “B” and “Select”. No need to enter in a password.
 
 # Version 2.0 (29/01/2018):
 
 Restored the original Japanese sprite for Jynx.
+
 Version Complete (08/02/2018):
 
 Tiny adjustment to a single trainer’s Pokemon levels that was missed.
+
 With this final release, the hack is complete.
 
 # Update (25/06/2018)
 
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
+
 The readme file includes a list of changed encounters and evolutions.
 #
 #
