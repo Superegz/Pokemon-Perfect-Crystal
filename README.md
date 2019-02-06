@@ -38,7 +38,7 @@ The readme file includes a list of changed encounters and evolutions.
 The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
 #
 #
-#Encounters Added to Make Every Pokemon Obtainable
+# Encounters Added to Make Every Pokemon Obtainable
 
 Vulpix can be encountered at Route 36, 37 during the morning and day
 
@@ -75,7 +75,7 @@ Mewtwo is avaliable in a restored Cerulean Cave
 Mew has a 1% chance of encounter at a secret location at a secret time of day (See the bottom of the document to reveal location)
 
 
-#Encounters Changed to Bring Johto Pokemon Previously Only Obtainable in Kanto to Johto and Add Some Small Variety
+# Encounters Changed to Bring Johto Pokemon Previously Only Obtainable in Kanto to Johto and Add Some Small Variety
 
 Houndour has been added to Route 36 and 37 to be encountered at night
 
@@ -92,7 +92,7 @@ The encounters at Mount Silver have been given a slight level boost
 The encounters in Cerulean Cave are a surprise
 
 
-#Evolutions
+# Evolutions
 
 Haunter evolves into Gengar with a Moon Stone
 
@@ -129,25 +129,19 @@ Porygon evolves into Porygon2 with a Thunderstone
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#Secret Locations
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+# Secret Locations
 
 The 3 legendrary birds are in the Pokeball chambers in Mount Silver.
 
