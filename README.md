@@ -38,7 +38,7 @@ Simplified the clock reset procedure on the intro screen. Simply hold down “Do
 
 Restored the original Japanese sprite for Jynx.
 
-Version Complete (08/02/2018):
+# Version Complete (08/02/2018):
 
 Tiny adjustment to a single trainer’s Pokemon levels that was missed.
 
