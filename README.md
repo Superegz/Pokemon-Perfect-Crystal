@@ -49,14 +49,13 @@ With this final release, the hack is complete.
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
 
 The readme file includes a list of changed encounters and evolutions.
-
+#
+#
+#
+#
 # The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
-
-# Screenshots
-![Gym Rematch](https://www.romhacking.net/hacks/gameboy/images/3840screenshot1.png)
-![Mart](https://www.romhacking.net/hacks/gameboy/images/3840screenshot2.png)
-![Jynx](https://www.romhacking.net/hacks/gameboy/images/3840screenshot3.png)
-
+#
+#
 # Encounters Added to Make Every Pokemon Obtainable
 
 Vulpix can be encountered at Route 36, 37 during the morning and day
