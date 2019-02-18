@@ -51,6 +51,7 @@ The readme file has been updated with the secret locations for the legendary bir
 Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
 The readme file includes a list of changed encounters and evolutions.
+<<<<<<< HEAD
 #
 #
 #
@@ -58,6 +59,16 @@ The readme file includes a list of changed encounters and evolutions.
 # The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4040.
 #
 #
+=======
+
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
+
+# Screenshots
+![Gym Rematch](https://www.romhacking.net/hacks/gameboy/images/3840screenshot1.png)
+![Mart](https://www.romhacking.net/hacks/gameboy/images/3840screenshot2.png)
+![Jynx](https://www.romhacking.net/hacks/gameboy/images/3840screenshot3.png)
+
+>>>>>>> 99239b2186f47b38515c2da34451f608464d7a0d
 # Encounters Added to Make Every Pokemon Obtainable
 
 Vulpix can be encountered at Route 36, 37 during the morning and day
@@ -163,4 +174,3 @@ Zapdos is at Route 10, outside the powerplant.
 Moltres is in Mount Silver room 2.
 
 Mew is at the summit of Mount Silver (where Red is) during the morning. I imagine that Red is up there looking for a Mew.
-
