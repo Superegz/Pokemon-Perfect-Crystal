@@ -57,9 +57,6 @@ The readme file includes a list of changed encounters and evolutions.
 # The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4040.
 #
 #
-
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
-
 # Screenshots
 ![Gym Rematch](https://www.romhacking.net/hacks/gameboy/images/3840screenshot1.png)
 ![Mart](https://www.romhacking.net/hacks/gameboy/images/3840screenshot2.png)
