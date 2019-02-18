@@ -42,11 +42,11 @@ Restored the original Japanese sprite for Jynx.
 
 Tiny adjustment to a single trainer’s Pokemon levels that was missed.
 
-# Update (25/06/2018)
+# Update (25/06/2018):
 
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
 
-# Update (18/02/2019)
+# Update (18/02/2019):
 
 Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
