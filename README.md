@@ -34,26 +34,28 @@ Restored Japanese sprites for the Beauty, Sage, Medium, female Swimmer and Fishe
 
 Simplified the clock reset procedure on the intro screen. Simply hold down “Down”, “B” and “Select”. No need to enter in a password.
 
-# Version 2.0 (29/01/2018):
+# Update (29/01/2018):
 
 Restored the original Japanese sprite for Jynx.
 
-# Version Complete (08/02/2018):
+# Update (08/02/2018):
 
 Tiny adjustment to a single trainer’s Pokemon levels that was missed.
-
-With this final release, the hack is complete.
 
 # Update (25/06/2018)
 
 The readme file has been updated with the secret locations for the legendary birds and Mew at the bottom of the document. (Keep scrolling)
+
+# Update (18/02/2019)
+
+Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
 The readme file includes a list of changed encounters and evolutions.
 #
 #
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 413C.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4040.
 #
 #
 # Encounters Added to Make Every Pokemon Obtainable
@@ -82,11 +84,11 @@ Squirtle has a 1% chance of encounter at Whirl Islands B2F at night
 
 Omanyte and Kabuto can be encountered at the Whirl Islands in Lugia's Chamber (not in the water) at night
 
-Zapdos has a 1% chance of encounter at a secret location in the morning (See the bottom of the document to reveal location)
+Zapdos has a 1% chance of encounter at a secret location in the day (See the bottom of the document to reveal location)
 
-Moltres has a 1% chance of encounter at a secret location at night (See the bottom of the document to reveal location)
+Moltres has a 1% chance of encounter at a secret location in the morning (See the bottom of the document to reveal location)
 
-Articuno has a 1% chance of encounter at a secret location in the day (See the bottom of the document to reveal location)
+Articuno has a 1% chance of encounter at a secret location at night (See the bottom of the document to reveal location)
 
 Mewtwo is avaliable in a restored Cerulean Cave
 
@@ -154,7 +156,11 @@ Porygon evolves into Porygon2 with a Thunderstone
 #
 # Secret Locations
 
-The 3 legendrary birds are in the Pokeball chambers in Mount Silver.
+Articuno is in the Ice Path B3F.
+
+Zapdos is at Route 10, outside the powerplant.
+
+Moltres is in Mount Silver room 2.
 
 Mew is at the summit of Mount Silver (where Red is) during the morning. I imagine that Red is up there looking for a Mew.
 

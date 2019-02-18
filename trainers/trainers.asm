@@ -23,7 +23,7 @@ FalknerGroup:
 
 	; party
 
-	db 7, PIDGEY
+	db 9, PIDGEY
 		db TACKLE
 		db MUD_SLAP
 		db 0

@@ -101,7 +101,7 @@ LeaderBlueBeforeText:
 	line "now."
 
 	para "Ready, JOHTO"
-	line "boy?"
+	line "CHAMP?"
 	done
 
 LeaderBlueWinText:

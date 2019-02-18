@@ -808,7 +808,7 @@
 	db 26, DELIBIRD
 	db 22, SNEASEL
 	db 24, SNEASEL
-	db 26, SNEASEL
+	db 50, ARTICUNO ;SNEASEL
 
 	map WHIRL_ISLAND_NW
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
@@ -1062,7 +1062,7 @@
 	db 56, PARASECT
 	db 58, PARASECT
 	db 25, LARVITAR
-	db 29, LARVITAR
+	db 50, MOLTRES ;LARVITAR
 	; day
 	db 58, GOLBAT
 	db 58, MACHOKE
@@ -1116,7 +1116,7 @@
 	db 56, PARASECT
 	db 58, PARASECT
 	db 60, PARASECT
-	db 62, ARTICUNO ;PARASECT
+	db 62, PARASECT
 	; day
 	db 58, GOLBAT
 	db 56, GOLBAT
@@ -1124,7 +1124,7 @@
 	db 56, PARASECT
 	db 58, PARASECT
 	db 60, PARASECT
-	db 62, ZAPDOS ;PARASECT
+	db 62, PARASECT
 	; nite
 	db 55, MISDREAVUS
 	db 58, GOLBAT
@@ -1132,7 +1132,7 @@
 	db 56, PARASECT
 	db 58, PARASECT
 	db 60, PARASECT
-	db 62, MOLTRES ;PARASECT
+	db 62, PARASECT
 
 	map DARK_CAVE_VIOLET_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite

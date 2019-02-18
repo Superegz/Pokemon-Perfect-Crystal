@@ -24,11 +24,11 @@ Squirtle has a 1% chance of encounter at Whirl Islands B2F at night
 
 Omanyte and Kabuto can be encountered at the Whirl Islands in Lugia's Chamber (not in the water) at night
 
-Zapdos has a 1% chance of encounter at a secret location in the morning (See the bottom of the document to reveal location)
+Zapdos has a 1% chance of encounter at a secret location in the day (See the bottom of the document to reveal location)
 
-Moltres has a 1% chance of encounter at a secret location at night (See the bottom of the document to reveal location)
+Moltres has a 1% chance of encounter at a secret location in the morning (See the bottom of the document to reveal location)
 
-Articuno has a 1% chance of encounter at a secret location in the day (See the bottom of the document to reveal location)
+Articuno has a 1% chance of encounter at a secret location at night (See the bottom of the document to reveal location)
 
 Mewtwo is avaliable in a restored Cerulean Cave
 
@@ -109,6 +109,10 @@ Porygon evolves into Porygon2 with a Thunderstone
 
 ~~Secret Locations~~
 
-The 3 legendrary birds are in the Pokeball chambers in Mount Silver.
+Articuno is in the Ice Path B3F.
+
+Zapdos is at Route 10, outside the powerplant.
+
+Moltres is in Mount Silver room 2.
 
 Mew is at the summit of Mount Silver (where Red is) during the morning. I imagine that Red is up there looking for a Mew.
