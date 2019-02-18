@@ -50,6 +50,8 @@ The readme file has been updated with the secret locations for the legendary bir
 
 Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
+The game really is complete now!
+
 #
 The readme file includes a list of changed encounters and evolutions.
 #
