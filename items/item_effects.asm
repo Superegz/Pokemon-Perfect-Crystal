@@ -451,17 +451,10 @@ ParkBall: ; e8a2
 	ld a, [hl]
 	push af
 	set SUBSTATUS_TRANSFORMED, [hl]
+
 	bit SUBSTATUS_TRANSFORMED, a
-	jr nz, .ditto
-	jr .not_ditto
+	jr nz, .load_data
 
-.ditto
-	ld a, DITTO
-	ld [TempEnemyMonSpecies], a
-	jr .load_data
-
-.not_ditto
-	set SUBSTATUS_TRANSFORMED, [hl]
 	ld hl, wEnemyBackupDVs
 	ld a, [EnemyMonDVs]
 	ld [hli], a

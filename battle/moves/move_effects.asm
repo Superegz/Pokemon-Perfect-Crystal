@@ -665,7 +665,7 @@ DefenseDownHit:
 	supereffectivetext
 	checkdestinybond
 	buildopponentrage
-	effectchance
+	;effectchance
 	defensedown
 	statdownmessage
 	endmove

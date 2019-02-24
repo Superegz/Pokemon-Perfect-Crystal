@@ -427,7 +427,7 @@ Slots_PayoutAnim: ; 929a4 (24:69a4)
 	ld [hl], d
 	ld a, [wcf64]
 	and $7
-	ret z ; ret nz would be more appropriate
+	ret nz ; ret nz would be more appropriate
 	ld de, SFX_GET_COIN_FROM_SLOTS
 	call PlaySFX
 	ret

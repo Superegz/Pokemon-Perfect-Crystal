@@ -50,13 +50,15 @@ The readme file has been updated with the secret locations for the legendary bir
 
 Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
-The game really is complete now!
+# Update (24/02/2019):
+
+Fixed a bunch more glitches such as the Magikarp length bug, Light Ball bug and the Belly Drum glitch.
 
 #
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4040.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4a15 (4040).
 #
 #
 # Screenshots

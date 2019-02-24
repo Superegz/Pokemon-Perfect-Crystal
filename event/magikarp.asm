@@ -287,7 +287,7 @@ CalcMagikarpLength: ; fbbfc
 	ld a, b
 	cp d
 	ret c
-	ret nc ; whoops
+	; whoops
 	ld a, c
 	cp e
 	ret

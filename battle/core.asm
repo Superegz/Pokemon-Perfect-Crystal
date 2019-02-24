@@ -6010,7 +6010,7 @@ CheckPlayerHasUsableMoves: ; 3e786
 	jr .loop
 
 .done
-	and a ; This is probably a bug, and will result in a move with PP Up confusing the game.
+	and $3f ; This is probably a bug, and will result in a move with PP Up confusing the game.
 	ret nz
 
 .force_struggle
@@ -6415,7 +6415,7 @@ LoadEnemyMon: ; 3e8eb
 
 ; We're clear if the length is < 1536
 	ld a, [MagikarpLength]
-	cp a, $06 ; $600 = 1536
+	cp 5 ; $600 = 1536
 	jr nz, .CheckMagikarpArea
 
 ; 5% chance of skipping size checks
@@ -6424,7 +6424,7 @@ LoadEnemyMon: ; 3e8eb
 	jr c, .CheckMagikarpArea
 ; Try again if > 1614
 	ld a, [MagikarpLength + 1]
-	cp a, $50
+	cp 3
 	jr nc, .GenerateDVs
 
 ; 20% chance of skipping this check
@@ -6433,7 +6433,7 @@ LoadEnemyMon: ; 3e8eb
 	jr c, .CheckMagikarpArea
 ; Try again if > 1598
 	ld a, [MagikarpLength + 1]
-	cp a, $40
+	cp 2
 	jr nc, .GenerateDVs
 
 .CheckMagikarpArea:
@@ -6448,10 +6448,10 @@ LoadEnemyMon: ; 3e8eb
 ; The real behavior prevents size flooring in the Lake of Rage area
 	ld a, [MapGroup]
 	cp a, GROUP_LAKE_OF_RAGE
-	jr z, .Happiness
+	jr nz, .Happiness
 	ld a, [MapNumber]
 	cp a, MAP_LAKE_OF_RAGE
-	jr z, .Happiness
+	jr nz, .Happiness
 ; 40% chance of not flooring
 	call Random
 	cp a, $64 ; / $100

@@ -57,8 +57,8 @@ UnknownText_0x55f74:
 	text "Some #MON"
 	line "evolve only by"
 
-	para "being traded via a"
-	line "Game Link cable."
+	para "the use of a"
+	line "stone."
 
 	para "I know of four:"
 	line "MACHOKE, KADABRA,"

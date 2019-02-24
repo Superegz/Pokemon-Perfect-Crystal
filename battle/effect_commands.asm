@@ -2778,6 +2778,17 @@ DittoMetalPowder: ; 352b1
 .done
 	scf
 	rr c
+
+	ld a, 999 / $100
+	cp b
+	jr c, .cap
+	ld a, 999 % $100
+	cp c
+	ret nc
+
+.cap
+	ld b, 999 / $100
+	ld c, 999 % $100
 	ret
 
 ; 352dc
@@ -3056,8 +3067,19 @@ SpeciesItemBoost: ; 353d1
 ; Double the stat
 	sla l
 	rl h
-	ret
 
+	ld a, 999 / $100
+	cp h
+	jr c, .cap
+	ld a, 999 % $100
+	cp l
+	ret nc
+
+.cap
+	ld h, 999 / $100
+	ld l, 999 % $100
+	ret
+	
 ; 353f6
 
 
@@ -9420,15 +9442,17 @@ BattleCommand_BellyDrum: ; 37c1a
 ; This command is buggy because it raises the user's attack
 ; before checking that it has enough HP to use the move.
 ; Swap the order of these two blocks to fix.
-	
-	call BattleCommand_AttackUp2
-	ld a, [AttackMissed]
-	and a
-	jr nz, .failed
-	
+
 	callab GetHalfMaxHP
 	callab CheckUserHasEnoughHP
 	jr nc, .failed
+	
+	push bc
+	call BattleCommand_AttackUp2
+	pop bc
+	ld a, [AttackMissed]
+	and a
+	jr nz, .failed
 
 	push bc
 	call AnimateCurrentMove
