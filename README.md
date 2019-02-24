@@ -58,7 +58,7 @@ Fixed a bunch more glitches such as the Magikarp length bug, Light Ball bug and 
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 4a15 (4040).
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 400f.
 #
 #
 # Screenshots
