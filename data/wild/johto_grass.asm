@@ -808,7 +808,7 @@
 	db 26, DELIBIRD
 	db 22, SNEASEL
 	db 24, SNEASEL
-	db 50, ARTICUNO ;SNEASEL
+	db 40, ARTICUNO ;SNEASEL
 
 	map WHIRL_ISLAND_NW
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
@@ -1062,7 +1062,7 @@
 	db 56, PARASECT
 	db 58, PARASECT
 	db 25, LARVITAR
-	db 50, MOLTRES ;LARVITAR
+	db 40, MOLTRES ;LARVITAR
 	; day
 	db 58, GOLBAT
 	db 58, MACHOKE

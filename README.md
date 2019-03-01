@@ -54,11 +54,19 @@ Moved the 3 legendary birds to more logical locations around Johto and Kanto.
 
 Fixed a bunch more glitches such as the Magikarp length bug, Light Ball bug and the Belly Drum glitch.
 
+# Update (01/03/2019):
+
+Adjusted the levels of the 3 legendary birds to have a more appropriate move set when you encounter them.
+
+Made all but one of the unobtainable decorations unlock upon defeating the Elite 4.
+
+Made the Gold Trophy unlock upon defeating Red.
+
 #
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 400f.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 666a.
 #
 #
 # Screenshots
