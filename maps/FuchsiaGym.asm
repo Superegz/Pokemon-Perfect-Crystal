@@ -300,7 +300,7 @@ UnknownText_0x196074:
 
 Janine_RematchDefeat:
 	text "JANINE: I still"
-	line "need to improve..."
+	line "need to improve…"
 	done
 	
 UnknownText_0x1960e6:

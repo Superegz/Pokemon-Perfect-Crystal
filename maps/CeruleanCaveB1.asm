@@ -42,7 +42,7 @@ MewtwoText:
 	cont "last seen a human."
 	
 	para "The only one I've"
-	line "ever respected..."
+	line "ever respected…"
 	
 	para "I doubt you're"
 	line "another."

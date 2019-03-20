@@ -218,7 +218,7 @@ UnknownText_0x68735:
 Falkner_RematchDefeat:
 	text "Darn! I'm still"
 	line "not good"
-	cont "enough..."
+	cont "enough…"
 	done
 
 Bird_keeperRodSeenText:

@@ -166,7 +166,7 @@ UnknownText_0x9c3d1:
 	line "how to say this,"
 	cont "but good luck…"
 	
-	para "But still..."
+	para "But still…"
 	line "I think want to"
 	
 	para "challenge you"
@@ -175,7 +175,7 @@ UnknownText_0x9c3d1:
 	
 Jasmine_RematchDefeat:
 	text "I'm still not"
-	line "good enough..."
+	line "good enough…"
 	done
 	
 OlivineGymGuyText:

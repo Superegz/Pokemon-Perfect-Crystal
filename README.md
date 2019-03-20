@@ -62,11 +62,17 @@ Made all but one of the unobtainable decorations unlock upon defeating the Elite
 
 Made the Gold Trophy unlock upon defeating Red.
 
+# Update (20/03/2019):
+
+Cleaned up the entrance to Cerulean Cave by extending the cave on Route 4 over the water. This avoids a bug where your sprite disappears when you start surfing off the ledge.
+
+Cleaned up the added dialogue by replacing instances of "..." with "…" to match the rest of the game.
+
 #
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 666a.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 511d.
 #
 #
 # Screenshots

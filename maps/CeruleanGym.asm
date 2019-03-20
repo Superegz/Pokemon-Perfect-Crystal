@@ -306,7 +306,7 @@ Misty_RematchDefeat:
 	line "holding up."
 	
 	para "Don't get cocky"
-	line "tho."
+	line "though."
 	done
 
 SwimmerfDianaSeenText:

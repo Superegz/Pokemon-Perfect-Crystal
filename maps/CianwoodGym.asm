@@ -252,7 +252,7 @@ ChuckAfterText:
 
 Chuck_RematchDefeat:
 	text "I still need"
-	line "to train more..."
+	line "to train more…"
 	done
 	
 BlackbeltYoshiSeenText:

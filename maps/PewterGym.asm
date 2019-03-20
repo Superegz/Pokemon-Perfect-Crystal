@@ -154,7 +154,7 @@ UnknownText_0x1a2ada:
 Brock_RematchDefeat:
 	text "BROCK: You're"
 	line "stronger than I"
-	cont "expected..."
+	cont "expected…"
 	done
 	
 CamperJerrySeenText:

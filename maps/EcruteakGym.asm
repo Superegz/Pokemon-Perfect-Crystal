@@ -293,7 +293,7 @@ UnknownText_0x9a145:
 	
 Morty_RematchDefeat:
 	text "Im not good"
-	line "enough yet..."
+	line "enough yet…"
 	done
 
 SageJeffreySeenText:
