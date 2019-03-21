@@ -231,10 +231,6 @@ UnknownText_0x1aad4a:
 
 	para "should give you an"
 	line "edge in battle."
-
-	para "I'm sure the KANTO"
-	line "GYM BADGES will"
-	cont "help you."
 	done
 
 VermilionCitySignText:

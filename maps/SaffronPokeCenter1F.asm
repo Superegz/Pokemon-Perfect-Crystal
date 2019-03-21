@@ -89,11 +89,8 @@ UnknownText_0x18a62e:
 	line "easily."
 
 	para "Several caves have"
-	line "disappeared in the"
-
-	para "past few years,"
-	line "like the one out-"
-	cont "side CERULEAN."
+	line "shrunk in the"
+	cont "past few years."
 
 	para "As a pro HIKER,"
 	line "that's common"

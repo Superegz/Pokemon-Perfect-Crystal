@@ -72,7 +72,7 @@ Cleaned up the added dialogue by replacing instances of ". . ." with "…" to ma
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of 3b56.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of e64a.
 #
 #
 # Screenshots

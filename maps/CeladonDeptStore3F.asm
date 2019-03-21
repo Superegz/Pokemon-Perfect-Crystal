@@ -61,8 +61,8 @@ UnknownText_0x70d86:
 	text "Uh-oh! I traded my"
 	line "#MON without"
 
-	para "removing the UP-"
-	line "GRADE from it."
+	para "removing the"
+	line "item from it."
 	done
 
 UnknownText_0x70dc7:
@@ -74,12 +74,6 @@ UnknownText_0x70dc7:
 
 	para "never get enough"
 	line "coins…"
-
-	para "…Huh?"
-
-	para "The traded PORYGON"
-	line "turned into a dif-"
-	cont "ferent #MON!"
 	done
 
 UnknownText_0x70e61:
