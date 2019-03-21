@@ -4993,7 +4993,7 @@ BattleCommand_SleepTarget: ; 35e5c
 	and a
 	jp nz, PrintDidntAffect2
 
-
+	ld hl, DidntAffect1Text
 
 	ld a, [de]
 	and a
