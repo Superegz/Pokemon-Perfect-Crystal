@@ -68,7 +68,7 @@ Cleaned up the entrance to Cerulean Cave by extending the ledge on Route 4 over 
 
 Cleaned up the added dialogue by replacing instances of ". . ." with "…" to match the rest of the game.
 
-# Update (21/03/2019):
+# Update (05/04/2019):
 
 Cleaned up some minor grammar mistakes in the dialogue.
 
