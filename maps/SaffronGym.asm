@@ -172,17 +172,13 @@ UnknownText_0x189e95:
 	done
 
 UnknownText_0x189ead:
-	text "SABRINA: MARSH-"
-	line "BADGE draws out"
-
-	para "your subliminal"
-	line "powers…"
-
-	para "Although I failed"
-	line "to accurately pre-"
+	text "SABRINA: Although" 
+	line "I failed to"
+	cont "accurately pre-"
 	cont "dict your power,"
-	cont "this much I know"
-	cont "to be true."
+	
+	para "this much I know"
+	line "to be true."
 
 	para "You will become a"
 	line "celebrated and"

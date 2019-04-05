@@ -208,7 +208,7 @@ UnknownText_0x68735:
 	para "the greatest bird"
 	line "master!"
 	
-	para "On the other hand"
+	para "On the other hand,"
 	line "we can have a test"
 	
 	para "of skill right"

@@ -68,11 +68,15 @@ Cleaned up the entrance to Cerulean Cave by extending the ledge on Route 4 over 
 
 Cleaned up the added dialogue by replacing instances of ". . ." with "…" to match the rest of the game.
 
+# Update (21/03/2019):
+
+Cleaned up some minor grammar mistakes in the dialogue.
+
 #
 The readme file includes a list of changed encounters and evolutions.
 #
 #
-# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of ee5b.
+# The attached IPS works with Pokemon - Crystal Version (UE) (V1.1) [C][!] and the patched rom should have a checksum of c638.
 #
 #
 # Screenshots

@@ -241,8 +241,10 @@ BugsyText_BugMonsAreDeep:
 	para "Or we can have"
 	line "a rematch to"
 	
-	para "extend my research"
-	line "how about that?"
+	para "extend my"
+	line "research."
+	
+	para "How about that?"
 	done
 	
 BugsyText_RematchDefeat:

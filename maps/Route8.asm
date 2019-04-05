@@ -156,9 +156,10 @@ SupernerdTomBeatenText:
 	done
 
 UnknownText_0x6c27e:
-	text "GYM BADGES give"
-	line "you advantages in"
-	cont "battles."
+	text "GYM BADGES show"
+	line "that you are"
+	line "an experienced."
+	cont "trainer."
 	done
 
 Route8LockedDoorText:
