@@ -243,8 +243,7 @@ BugsyText_BugMonsAreDeep:
 	
 	para "extend my"
 	line "research."
-	
-	para "How about that?"
+	cont "How about that?"
 	done
 	
 BugsyText_RematchDefeat:

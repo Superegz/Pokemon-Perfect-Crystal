@@ -158,7 +158,7 @@ SupernerdTomBeatenText:
 UnknownText_0x6c27e:
 	text "GYM BADGES show"
 	line "that you are"
-	cont "an experienced."
+	cont "an experienced"
 	cont "trainer."
 	done
 
