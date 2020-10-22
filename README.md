@@ -1,4 +1,4 @@
-# Pokemon Perfect Crystal - Original Hard Version
+# Pokemon Perfect Crystal - Original Version
 
 When Pokemon Crystal was released, it was the ultimate experience of classic Game Boy/Game Boy Color Pokemon. Now this classic can be played the way it always should have been!
 
