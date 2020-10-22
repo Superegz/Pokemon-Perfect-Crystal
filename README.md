@@ -4,7 +4,7 @@ When Pokemon Crystal was released, it was the ultimate experience of classic Gam
 
 The goal of this hack has been to make an idealized definitive version of Pokemon Crystal that has every Pokemon available to catch and to fix a number of glaring glitches that hampered the original game.
 
-This is the original hard version, where Red has Level 100 Pokemon and encounter rates for some added Pokemon are extremely low.
+This is the original version, where Red has Level 100 Pokemon and encounter rates for some added Pokemon are extremely low.
 
 Only minor changes have been made, see below for details:
 
